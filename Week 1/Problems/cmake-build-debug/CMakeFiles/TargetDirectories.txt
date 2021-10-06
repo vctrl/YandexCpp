@@ -1,0 +1,3 @@
+/Users/viktor/Courses/cpp programming 1/Week 1/Week1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/viktor/Courses/cpp programming 1/Week 1/Week1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/viktor/Courses/cpp programming 1/Week 1/Week1/cmake-build-debug/CMakeFiles/1_equation.dir
