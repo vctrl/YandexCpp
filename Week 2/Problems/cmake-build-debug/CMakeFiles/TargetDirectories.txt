@@ -1,0 +1,3 @@
+/Users/viktor/Courses/YandexCpp/Week 2/Problems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/viktor/Courses/YandexCpp/Week 2/Problems/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/viktor/Courses/YandexCpp/Week 2/Problems/cmake-build-debug/CMakeFiles/Problems.dir
